@@ -16,8 +16,8 @@ The image IDs and their captions are collected from Hugging Face, selecting the 
   - `image-captioning-training.ipynb`: Notebook to train and evaluate the image captioning model.
 
 - **pickles/**: Contains serialized objects used in the project.
-  - `img_features_1.pkl`: [Link to Kaggle dataset](https://www.kaggle.com/datasets/phanichaitanya349/processed-200k)
-  - `img_features_2.pkl`: [Link to Kaggle dataset](https://www.kaggle.com/datasets/phanichaitanya349/processed-200k)
+  - `img_features_1.pkl`: [Link to My Kaggle dataset](https://www.kaggle.com/datasets/phanichaitanya349/processed-200k)
+  - `img_features_2.pkl`: [Link to My Kaggle dataset](https://www.kaggle.com/datasets/phanichaitanya349/processed-200k)
   - `captions_1.pkl`: Captions of the first half of the images.
   - `captions_2.pkl`: Captions of the second half of the images.
 
@@ -48,7 +48,7 @@ The image IDs and their captions are collected from Hugging Face, selecting the 
 
 ### Download Data
 
-Use the `notebooks/data_preparation.ipynb` notebook to download and preprocess the dataset. Alternatively, you can use the my dataset provided on Kaggle: [Kaggle Dataset Link](https://www.kaggle.com/datasets/phanichaitanya349/captioning-dataset-200k).
+Use the `notebooks/data_preparation.ipynb` notebook to download and preprocess the dataset. Alternatively, you can use the my dataset provided on Kaggle: [My Kaggle Dataset Link](https://www.kaggle.com/datasets/phanichaitanya349/captioning-dataset-200k).
 
 ### Train Model
 
