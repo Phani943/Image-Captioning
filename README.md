@@ -4,7 +4,7 @@ This repository contains code and models for an Image Captioning project using d
 
 ## Dataset
 
-The image IDs and their captions are collected from Hugging Face, selecting the first 200k rows from 500k rows for the dataset. Using these image IDs and an <span style="color:red;">Amazon AWS bucket</span>, the corresponding images were downloaded from ***Open Images***, a vast collection of diverse images. These 200k images are then placed on Kaggle. The entire data preparation process, including creating the Kaggle dataset, is detailed in the `data_preparation.ipynb` notebook.
+The image IDs and their captions are collected from Hugging Face, selecting the first 200k rows from 500k rows for the dataset. Using these image IDs and an ***Amazon AWS bucket***, the corresponding images were downloaded from ***Open Images***, a vast collection of diverse images. These 200k images are then placed on Kaggle. The entire data preparation process, including creating the Kaggle dataset, is detailed in the `data_preparation.ipynb` notebook.
 
 ## Project Structure
 
