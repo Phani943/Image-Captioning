@@ -79,7 +79,3 @@ The `notebooks/image-captioning-training.ipynb` notebook contains the code to ev
 ## Contributing
 
 Contributions are welcome! Please create an issue to discuss your ideas or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
